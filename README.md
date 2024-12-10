@@ -1,6 +1,5 @@
 # adsbhub
-Permet d'alimenter le réseau ADSBHub avec les données de trafic provenant de dump1090.
+Allows you to feed the ADSBHub network with traffic data from dump1090.
 
-La connexion à dump1090 se fait à l'adresse ```localhost:30002```.  
-La connexion à ADSBHub se fait à l'adresse ```data.adsbhub.org:5001```.
-
+The connection to dump1090 is made at the address ```localhost:30002```.  
+The connection to ADSBHub is made at the address ```data.adsbhub.org:5001```.
